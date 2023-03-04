@@ -1,0 +1,9 @@
+ 
+     What is API ?
+ => HTTP based services on top .net
+    can be consumed by :
+	        Browsers
+			Mobile Apps
+			Desktop Apps
+			IOTs 
+	
